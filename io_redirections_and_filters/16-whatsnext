@@ -1,0 +1,2 @@
+#!/bin/bash
+0;10;1cgrep -A "root" 3 | wc -l
